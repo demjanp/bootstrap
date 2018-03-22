@@ -1,5 +1,5 @@
-# bootstrap
-Bootstrapping test of dependency of two categorical variables.
+# permutation
+Permutation test of dependency of two categorical variables.
 
 ## Prerequisites
 
