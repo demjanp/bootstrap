@@ -1,5 +1,5 @@
 '''
-	Bootstrapping test of dependency of two categorical variables.
+	Permutation test of dependency of two categorical variables.
 
 	Created on 23. 1. 2018
 
